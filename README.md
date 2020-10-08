@@ -1,6 +1,6 @@
 # A frontend technical challenge
 
-**Hello Justin,**
+**Hello,**
 
 This repository serves as a plain, forkable starting point for your frontend technical challenge.
 

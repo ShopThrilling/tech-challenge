@@ -28,6 +28,6 @@ In addition to the requirements above you can choose from the following addition
 - Make it pretty.
 - Include an easter egg that, if found, would be impressive and/or entertaining :)
 
-You should spend at most 2 hours on this challenge. Feel free to use whatever languages, libraries, frameworks, etc. that you feel will best empower you to fufill the requirements within the allotted time. Start by forking this repo. When you're finished send a link to your public fork. Ideally your code will run via GitHub Pages, directly from the repo.
+You should spend at most 2 hours on this challenge. Feel free to use whatever languages, libraries, frameworks, etc. that you feel will best empower you to fulfill the requirements within the allotted time. Start by forking this repo. When you're finished send a link to your public fork. Ideally your code will run via GitHub Pages, directly from the repo.
 
 **Best of luck!**

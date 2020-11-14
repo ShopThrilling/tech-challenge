@@ -1,33 +1,10 @@
 # A frontend technical challenge
 
-**Hello,**
+This repository serves as a plain, forkable starting point for your frontend technical challenge. This challenge is not a test, in that there are no right or wrong answers. Instead, this is intended to be an open-ended opportunity to show how you write code and solve problems.
 
-This repository serves as a plain, forkable starting point for your frontend technical challenge.
+We have a simple API that returns a JSON feed of the [most popular New York Times science articles](https://api.nytimes.com/svc/topstories/v2/science.json?api-key=Gwxln5M3geWlhR6UE0TY1FUWKSG3wCil). We would like you to use HTML, CSS and Javascript to read the API and display it in an organized way. In addition, you should add in some type of search, filtering, or sorting capability. Feel free to use any languages, libraries, or frameworks you would like to achieve the task.
 
-In this challenge you will create a web interface that can search through a list of items and display relevant results. The items will be retrieved via a read-only API that will return a JSON feed of the [most popular New York Times science articles](https://api.nytimes.com/svc/topstories/v2/science.json?api-key=Gwxln5M3geWlhR6UE0TY1FUWKSG3wCil).
+You can access the API via the following link:  
+https://api.nytimes.com/svc/topstories/v2/science.json?api-key=Gwxln5M3geWlhR6UE0TY1FUWKSG3wCil
 
-The [index.html](./index.html) file within this repository provides a simple vanilla AJAX example of how to retrieve articles. You can see this example running here:  
-<https://shopthrilling.github.io/tech-challenge/>
-
-Your challenge solution should aim to fulfill the following:
-- Provide an input for search terms.
-- Upon submission of a search term, dynamically display a link to the relevant article/s.
-  - Search terms should match against the following article attributes:
-    - title
-    - section
-    - byline
-  - Search terms should be case insensitive.
-    - e.g. the search term "kenneth chang" should return an article with the byline "KENNETH CHANG"
-  - Search terms should match regardless of the order they are entered.
-    - e.g. the search terms "meat growing" or "lab mush" should return an article with the title "Growing Meat in a Lab That Doesn’t Look Like Mush"
-
-In addition to the requirements above you can choose from the following additional features to implememnt if time permits:
-- Sort results by relevance.
-- Implement typeahead search.
-- Implement approximate string matching, aka fuzzy search.
-- Make it pretty.
-- Include an easter egg that, if found, would be impressive and/or entertaining :)
-
-You should spend at most 2 hours on this challenge. Feel free to use whatever languages, libraries, frameworks, etc. that you feel will best empower you to fulfill the requirements within the allotted time. Start by forking this repo. When you're finished send a link to your public fork. Ideally your code will run via GitHub Pages, directly from the repo.
-
-**Best of luck!**
+Start by forking this repo. When you're finished please send a link to your public fork.
